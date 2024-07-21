@@ -1,6 +1,8 @@
 # PERN Todo App
 
-This is a Todo application built using the PERN stack: PostgreSQL, Express.js, React, and Node.js. The frontend is developed with React and Bootstrap, while the backend uses Node.js and Express.js. PostgreSQL is used for data storage.
+*This is a Todo application built using the PERN stack: PostgreSQL, Express.js, React, and Node.js. The frontend is developed with React and Bootstrap, while the backend uses Node.js and Express.js. PostgreSQL is used for data storage.* <br>
+## Screenshot 
+![Screenshot](https://github.com/AkashKobal/PERN-Todo-App/blob/main/Screenshot%202024-07-22%20003345.png) 
 
 ## Features
 
