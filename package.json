@@ -11,6 +11,10 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
+<<<<<<< HEAD
+=======
+    "dotenv": "^16.4.5",
+>>>>>>> 44cbf94 (updated)
     "express": "^4.19.2",
     "pg": "^8.12.0",
     "pool": "^0.4.1"

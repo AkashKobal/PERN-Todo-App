@@ -27,9 +27,12 @@ const InputTodo = () => {
         }
     }
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 44cbf94 (updated)
   return (
     <Fragment>
        <h1 className='text-center mt-5'>PERN Todo List</h1>
